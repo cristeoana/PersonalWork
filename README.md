@@ -47,3 +47,11 @@ d. Delete a movie from the watch list, after the user watched the movie. When de
 movie from the watch list, the user can also rate the movie (with a like), and in this case, the
 likes of the movie in the repository will be increased.
 e. See the watch list.
+
+# Obstruction
+Players: Two. Players take turns in marking squares on a grid. The first player unable to move loses.
+Description
+The game is played on a grid; 6 x 6 is a good size. One player is 'O' and the other is 'X'.
+Players take turns in writing their symbol in a cell. The restriction is that you can only play in a cell if all its neighbours are empty (shown shaded in the following diagrams).
+The first player unable to move loses.
+
